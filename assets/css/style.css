@@ -105,6 +105,8 @@ h3{
     margin-right: 0;
     font-weight: bold;
     color: #4aaaa5;
+    padding-bottom: 25px;
+    border-bottom: 2px solid #dddddd;
 }
 
 .connect{
