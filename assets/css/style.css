@@ -7,7 +7,7 @@ html{
 }
 
 body{
-    background-image:url("./assets./images./circles.png");
+    background-image:url("../images/circles.png");
     display: flex;
     flex-direction: column;
     height: 100vh;
